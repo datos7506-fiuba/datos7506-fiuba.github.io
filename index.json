@@ -1,7 +1,42 @@
 [
 {
-	"uri": "https://datos7506-fiuba.github.io/categories/",
-	"title": "Categories",
+	"uri": "https://datos7506-fiuba.github.io/tps/tp1/",
+	"title": "TP1",
+	"tags": ["trabajos", "prácticos"],
+	"description": "Trabajo práctico nº1",
+	"content": ""
+},
+{
+	"uri": "https://datos7506-fiuba.github.io/tps/tp2/",
+	"title": "TP2",
+	"tags": ["trabajos", "prácticos"],
+	"description": "Trabajo práctico nº2",
+	"content": ""
+},
+{
+	"uri": "https://datos7506-fiuba.github.io/tps/tp3/",
+	"title": "TP3",
+	"tags": ["trabajos", "prácticos"],
+	"description": "Trabajo práctico nº3",
+	"content": ""
+},
+{
+	"uri": "https://datos7506-fiuba.github.io/tps/",
+	"title": "Trabajos prácticos",
+	"tags": ["trabajos", "prácticos"],
+	"description": "Trabajos prácticos de la materia",
+	"content": "Régimen de entrega Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum neque ipsum, tempor vel fermentum eget, placerat vitae risus. Proin ultricies, nibh et tincidunt sagittis, odio lectus laoreet magna, a interdum mauris mi nec arcu. Sed et malesuada ante, porta mollis risus. Curabitur sodales nulla nec fringilla viverra. Fusce interdum arcu vulputate justo varius ultricies. Integer non urna augue. Nulla sollicitudin elit vitae tortor varius, et iaculis justo aliquam. Morbi pellentesque nunc nec suscipit scelerisque.\nGrupos    Grupo Integrantes Corrector asignado     1 - Brahms\n- Bach\n- Beethoven Darius Maitia    "
+},
+{
+	"uri": "https://datos7506-fiuba.github.io/",
+	"title": "Home",
+	"tags": [],
+	"description": "Home",
+	"content": "Organización de Datos 75.06/95.58 Bienvenidos a la página oficial del curso de la materia organización de datos (75.06/95.58) encabezado por Juan Manuel Rodriguez.\nTemario Work in progress.\nModalidad de cursada Work in progress.\n"
+},
+{
+	"uri": "https://datos7506-fiuba.github.io/tags/pr%C3%A1cticos/",
+	"title": "prácticos",
 	"tags": [],
 	"description": "",
 	"content": ""
@@ -14,9 +49,44 @@
 	"content": ""
 },
 {
-	"uri": "https://datos7506-fiuba.github.io/",
-	"title": "Welcome page",
+	"uri": "https://datos7506-fiuba.github.io/tags/trabajos/",
+	"title": "trabajos",
 	"tags": [],
 	"description": "",
-	"content": "Organización de Datos 75.06/95.58 Bienvenidos a la página oficial del curso de la materia organización de datos (75.06/95.58) encabezado por Juan Manuel Rodriguez.\nTemario Work in progress.\nModalidad de cursada Work in progress.\n"
+	"content": ""
+},
+{
+	"uri": "https://datos7506-fiuba.github.io/_footer/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": "Hello world.\n"
+},
+{
+	"uri": "https://datos7506-fiuba.github.io/calendar/",
+	"title": "Calendario",
+	"tags": [],
+	"description": "Calendario de la materia",
+	"content": "   Semana Fecha Práctica virtual Fecha Teórica presencial     1 21/03/2022 - Presentación de la materia. 23/03/2022 -Pandas. - Visualización de datos.   2 28/03/2022 - Pandas - Presentación del TP1 30/03/2022 - Introducción a la ciencia de datos. - Métodos de regresión - Métodos de clasificación - Métodos de clusterización   3 4/4/2022  06/04/2022 - NLP - parte 1   4 11/04/2022 -Práctica ciencia de datos 13/04/2022 - NLP - parte 2   5 18/04/2022 - Ingeniería de características (Teorica) 20/04/2022 -Práctica NLP   6 25/04/2022 - Vencimiento TP1 - Práctica Ingeniería de características 27/04/2022 - Árboles   7 02/05/2022 - Práctica Árboles 04/05/2022 - Presentación TP2 - Ensambles   8 09/05/2022 - Práctica Ensambles 11/05/2022 - Redes neuronales parte 1   9 16/05/2022 - Práctica Redes neuronales 18/05/2022    10 23/05/2022 - Teórica Redes neuronales parte 2 25/05/2022    11 30/05/2022 - Vencimiento TP2 - Práctica redes neuronales 2 01/06/2022 - Redes neuronales profundas   12 06/06/2022 Yolo v5 08/06/2022 - Parcial   13 13/06/2022 - Presentación del trabajo final - Entregas notas parcial 15/06/2022 - SVM   14 20/06/2022 - Reentrega TP2 22/06/2022 - Reduccion de la dimensionalidad   15 27/06/2022 - Práctica de reducción de dimensionalidad - Práctica de SVM 29/06/2022 - Primer recuperatorio (presencial) - Algoritmos genéticos - Práctica de algoritmos genéticos   16 04/07/2022 Consultas TPs 06/07/2022 Consultas TPs    "
+},
+{
+	"uri": "https://datos7506-fiuba.github.io/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://datos7506-fiuba.github.io/exams/",
+	"title": "Exámenes",
+	"tags": [],
+	"description": "Exámenes",
+	"content": "Mauris eget arcu ut massa finibus condimentum vel a enim. Pellentesque eu turpis suscipit, convallis mauris nec, imperdiet neque. Suspendisse ac posuere mauris. Sed diam sapien, cursus et lacus vitae, condimentum rhoncus mi. Curabitur vehicula, metus non semper aliquam, ex est auctor erat, vitae molestie magna ex nec lorem. Praesent varius libero ut enim laoreet, non volutpat ante placerat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\nPraesent quis augue augue. Morbi vestibulum euismod diam, nec volutpat nulla ultricies vitae. Donec lacinia lectus eu massa maximus fermentum. Donec hendrerit odio convallis volutpat pharetra. Proin sed viverra ex. Sed ac neque eu lacus tristique pharetra. Vivamus laoreet auctor semper. Nulla porttitor risus massa, quis condimentum quam commodo sit amet. Mauris ultrices libero vitae fermentum maximus. Praesent ut erat ac velit aliquam viverra.\n"
+},
+{
+	"uri": "https://datos7506-fiuba.github.io/recordings/",
+	"title": "Grabaciones",
+	"tags": [],
+	"description": "Clases grabadas de la materia",
+	"content": "Clase 1 (1/1/2022) - SVN Temas vistos: SVN\n "
 }]

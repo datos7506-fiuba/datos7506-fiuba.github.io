@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Organización de Datos 75.06/95.58</title>
-    <link>https://datos7506-fiuba.github.io/</link>
-    <description>Recent content in Home on Organización de Datos 75.06/95.58</description>
+    <title>trabajos on Organización de Datos 75.06/95.58</title>
+    <link>https://datos7506-fiuba.github.io/tags/trabajos/</link>
+    <description>Recent content in trabajos on Organización de Datos 75.06/95.58</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 18 Aug 2022 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://datos7506-fiuba.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://datos7506-fiuba.github.io/tags/trabajos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -39,12 +39,12 @@
     </item>
     
     <item>
-      <title></title>
-      <link>https://datos7506-fiuba.github.io/_footer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Trabajos prácticos</title>
+      <link>https://datos7506-fiuba.github.io/tps/</link>
+      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://datos7506-fiuba.github.io/_footer/</guid>
-      <description>Hello world.</description>
+      <guid>https://datos7506-fiuba.github.io/tps/</guid>
+      <description>Régimen de entrega Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum neque ipsum, tempor vel fermentum eget, placerat vitae risus. Proin ultricies, nibh et tincidunt sagittis, odio lectus laoreet magna, a interdum mauris mi nec arcu. Sed et malesuada ante, porta mollis risus. Curabitur sodales nulla nec fringilla viverra. Fusce interdum arcu vulputate justo varius ultricies. Integer non urna augue. Nulla sollicitudin elit vitae tortor varius, et iaculis justo aliquam.</description>
     </item>
     
   </channel>
