@@ -23,6 +23,18 @@
   </url>
   
   <url>
+    <loc>https://datos7506-fiuba.github.io/tps/tp1/</loc>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://datos7506-fiuba.github.io/tps/tp2/</loc>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://datos7506-fiuba.github.io/tps/tp3/</loc>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://datos7506-fiuba.github.io/tps/</loc>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://datos7506-fiuba.github.io/</loc>
     <lastmod>2022-08-18T00:00:00+00:00</lastmod>
   </url>
@@ -62,5 +74,4 @@
   <url>
     <loc>https://datos7506-fiuba.github.io/recordings/</loc>
   </url>
-  
 </urlset>
