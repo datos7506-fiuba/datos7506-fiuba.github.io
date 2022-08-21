@@ -1,38 +1,38 @@
 [
 {
 	"uri": "https://datos7506-fiuba.github.io/tps/tp1/",
-	"title": "TP1",
+	"title": "Trabajo práctico nº1",
 	"tags": ["trabajos", "prácticos"],
 	"description": "Trabajo práctico nº1",
-	"content": ""
+	"content": "Fechas  Publicación del enunciado: DD/MM Entrega: DD/MM  Enunciado El enunciado todavía no se ha publicado.\n"
 },
 {
 	"uri": "https://datos7506-fiuba.github.io/tps/tp2/",
-	"title": "TP2",
+	"title": "Trabajo práctico nº2",
 	"tags": ["trabajos", "prácticos"],
 	"description": "Trabajo práctico nº2",
-	"content": ""
+	"content": "Fechas  Publicación del enunciado: DD/MM Entrega: DD/MM  Enunciado El enunciado todavía no se ha publicado.\n"
 },
 {
 	"uri": "https://datos7506-fiuba.github.io/tps/tp3/",
-	"title": "TP3",
+	"title": "Trabajo práctico nº3",
 	"tags": ["trabajos", "prácticos"],
 	"description": "Trabajo práctico nº3",
-	"content": ""
+	"content": "Fechas  Publicación del enunciado: DD/MM Entrega: DD/MM  Enunciado El enunciado todavía no se ha publicado.\n"
 },
 {
 	"uri": "https://datos7506-fiuba.github.io/tps/",
 	"title": "Trabajos prácticos",
 	"tags": ["trabajos", "prácticos"],
 	"description": "Trabajos prácticos de la materia",
-	"content": "Régimen de entrega Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum neque ipsum, tempor vel fermentum eget, placerat vitae risus. Proin ultricies, nibh et tincidunt sagittis, odio lectus laoreet magna, a interdum mauris mi nec arcu. Sed et malesuada ante, porta mollis risus. Curabitur sodales nulla nec fringilla viverra. Fusce interdum arcu vulputate justo varius ultricies. Integer non urna augue. Nulla sollicitudin elit vitae tortor varius, et iaculis justo aliquam. Morbi pellentesque nunc nec suscipit scelerisque.\nGrupos    Grupo Integrantes Corrector asignado     1 - Brahms\n- Bach\n- Beethoven Darius Maitia    "
+	"content": "Régimen de entrega Los trabajos prácticos se efectúan en grupos de hasta 4 integrantes. Van a tener asignados un/a colaborador/a para la resolución de dudas puntuales y para la corrección de los trabajos prácticos.\nEl primer trabajo práctico no dispone de reentrega. Se busca con este TP que nos familiarizemos con las herramientas vistas en clase así como fomentar el análisis y la extracción de información a partir de los resultados obtenidos tras aplicar dichas herramientas.\nEl segundo trabajo práctico dispone de una carga de trabajo mayor y sí hay posibilidad de reentregar el trabajo práctico.\nEl trabajo práctico final consiste en desarrollar un pequeño proyecto de ciencia de datos en base a un dataset real. Se defiende de forma oral en cualquier fecha de coloquio y tiene posibilidad dos reentregas.\nGrupos    Grupo Integrantes Corrector asignado     1 - Brahms\n- Bach\n- Beethoven Darius Maitia    "
 },
 {
 	"uri": "https://datos7506-fiuba.github.io/",
 	"title": "Home",
 	"tags": [],
 	"description": "Home",
-	"content": "Organización de Datos 75.06/95.58 Bienvenidos a la página oficial del curso de la materia organización de datos (75.06/95.58) encabezado por Juan Manuel Rodriguez.\nTemario Work in progress.\nModalidad de cursada Work in progress.\n"
+	"content": "Organización de Datos 75.06/95.58 Bienvenidos a la página oficial del curso de la materia organización de datos (75.06/95.58) encabezado por Juan Manuel Rodriguez.\nDescripción del curso //TODO\nEquipo   Docentes  Juan Manuel Rodriguez    Marcelo Benitez    Azul Villanueva    Colaboradores  Darius Maitia    Adrián Romero    Nacho Velasco    Tomas Lorente    Luis Paredes    Nicolas Pinto    Matias Maidana    Francisco Pereira     Modalidad de cursada Horarios:  Práctica: Martes 19:00 - 22:00 hs virtual Teórica: Jueves 19:00 - 22:00 hs virtual  Régimen de aprobación:  1 trabajo práctico durante la cursada (no hay reentrega) 1 trabajo práctico durante la cursada (una reentrega) Parcial. (2 recuperatorios) 1 trabajo práctico final, con posibilidad de ser entregado en cualquier fecha de coloquio. (2 posibilidades de reentrega) Defensa oral del último TP.  Temario  Pandas Visualización de datos Métodos de regresión Métodos de clasificación Métodos de clusterización Natural language processing Árboles Ensambles Redes neuronales y redes neuronales profundas Support vector machine (SVM) Reducción de la dimensionalidad Algoritmos genéticos  Recursos  Guía de estudios Libro: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems (2019).pdf_  "
 },
 {
 	"uri": "https://datos7506-fiuba.github.io/tags/pr%C3%A1cticos/",
@@ -60,7 +60,7 @@
 	"title": "",
 	"tags": [],
 	"description": "",
-	"content": "Hello world.\n"
+	"content": ""
 },
 {
 	"uri": "https://datos7506-fiuba.github.io/calendar/",
