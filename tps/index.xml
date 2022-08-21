@@ -11,35 +11,5 @@
 	<atom:link href="https://datos7506-fiuba.github.io/tps/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>Trabajo práctico nº1</title>
-      <link>https://datos7506-fiuba.github.io/tps/tp1/</link>
-      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://datos7506-fiuba.github.io/tps/tp1/</guid>
-      <description>Fechas  Publicación del enunciado: DD/MM Entrega: DD/MM  Enunciado El enunciado todavía no se ha publicado.
- </description>
-    </item>
-    
-    <item>
-      <title>Trabajo práctico nº2</title>
-      <link>https://datos7506-fiuba.github.io/tps/tp2/</link>
-      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://datos7506-fiuba.github.io/tps/tp2/</guid>
-      <description>Fechas  Publicación del enunciado: DD/MM Entrega: DD/MM  Enunciado El enunciado todavía no se ha publicado.
- </description>
-    </item>
-    
-    <item>
-      <title>Trabajo práctico nº3</title>
-      <link>https://datos7506-fiuba.github.io/tps/tp3/</link>
-      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://datos7506-fiuba.github.io/tps/tp3/</guid>
-      <description>Fechas  Publicación del enunciado: DD/MM Entrega: DD/MM  Enunciado El enunciado todavía no se ha publicado.
- </description>
-    </item>
-    
   </channel>
 </rss>

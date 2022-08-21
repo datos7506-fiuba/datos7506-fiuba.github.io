@@ -1,38 +1,17 @@
 [
 {
-	"uri": "https://datos7506-fiuba.github.io/tps/tp1/",
-	"title": "Trabajo práctico nº1",
-	"tags": ["trabajos", "prácticos"],
-	"description": "Trabajo práctico nº1",
-	"content": "Fechas  Publicación del enunciado: DD/MM Entrega: DD/MM  Enunciado El enunciado todavía no se ha publicado.\n "
-},
-{
-	"uri": "https://datos7506-fiuba.github.io/tps/tp2/",
-	"title": "Trabajo práctico nº2",
-	"tags": ["trabajos", "prácticos"],
-	"description": "Trabajo práctico nº2",
-	"content": "Fechas  Publicación del enunciado: DD/MM Entrega: DD/MM  Enunciado El enunciado todavía no se ha publicado.\n "
-},
-{
-	"uri": "https://datos7506-fiuba.github.io/tps/tp3/",
-	"title": "Trabajo práctico nº3",
-	"tags": ["trabajos", "prácticos"],
-	"description": "Trabajo práctico nº3",
-	"content": "Fechas  Publicación del enunciado: DD/MM Entrega: DD/MM  Enunciado El enunciado todavía no se ha publicado.\n "
-},
-{
 	"uri": "https://datos7506-fiuba.github.io/tps/",
 	"title": "Trabajos prácticos",
 	"tags": ["trabajos", "prácticos"],
 	"description": "Trabajos prácticos de la materia",
-	"content": "Régimen de entrega Los trabajos prácticos se efectúan en grupos de hasta 4 integrantes. Van a tener asignados un/a colaborador/a para la resolución de dudas puntuales y para la corrección de los trabajos prácticos.\nEl primer trabajo práctico no dispone de reentrega. Se busca con este TP que nos familiarizemos con las herramientas vistas en clase así como fomentar el análisis y la extracción de información a partir de los resultados obtenidos tras aplicar dichas herramientas.\nEl segundo trabajo práctico dispone de una carga de trabajo mayor y sí hay posibilidad de reentregar el trabajo práctico.\nEl trabajo práctico final consiste en desarrollar un pequeño proyecto de ciencia de datos en base a un dataset real. Se defiende de forma oral en cualquier fecha de coloquio y tiene posibilidad dos reentregas.\nGrupos    Grupo Integrantes Corrector asignado     1 - Brahms\n- Bach\n- Beethoven Darius Maitia    "
+	"content": "Régimen de entrega Los trabajos prácticos se efectúan en grupos de hasta 4 integrantes. Van a tener asignados un/a colaborador/a para la resolución de dudas puntuales y para la corrección de los trabajos prácticos.\n"
 },
 {
 	"uri": "https://datos7506-fiuba.github.io/",
 	"title": "Home",
 	"tags": [],
 	"description": "Home",
-	"content": "\nOrganización de Datos 75.06/95.58 Bienvenidos a la página oficial del curso de la materia organización de datos (75.06/95.58) encabezado por Juan Manuel Rodriguez.\nDescripción del curso //TODO\nEquipo   Docentes  Juan Manuel Rodriguez    Marcelo Benitez    Azul Villanueva    Colaboradores  Darius Maitia    Adrián Romero    Nacho Velasco    Luis Paredes    Matias Maidana    Francisco Pereira     Temario  Pandas Visualización de datos Métodos de regresión Métodos de clasificación Métodos de clusterización Natural language processing Árboles Ensambles Redes neuronales y redes neuronales profundas Support vector machine (SVM) Reducción de la dimensionalidad Algoritmos genéticos  "
+	"content": "  \nOrganización de Datos 75.06/95.58 Bienvenidos a la página oficial del curso de la materia organización de datos (75.06/95.58) encabezado por Juan Manuel Rodriguez.\nDescripción del curso //TODO\nEquipo Docentes  Juan Manuel Rodriguez    Marcelo Benitez    Azul Villanueva    Colaboradores  Darius Maitia    Adrián Romero    Nacho Velasco    Luis Paredes    Matias Maidana    Francisco Pereira     Temario Objetivos:\nProporcionar los conceptos, las herramientas y la intuición necesaria para implementar programas capaces de aprender a partir de datos. Se explican una gran cantidad de técnicas, desde las más sencillas como regresión lineal hasta las más avanzadas como lo son las redes de aprendizaje profundo o el algoritmo XGBoost. Las herramientas utilizadas para lograr estos objetivos se encuentran entre las más utilizadas en la industria y que forman parte de la vanguardia tecnológica dentro de la ciencia de datos.\nPrograma sintético:\nUtilización de herramientas de visualización de datos; ingeniería de características; funcionamiento de modelos tradicionales de aprendizaje automático: métodos de clasificación, regresión y agrupamiento. Redes neuronales artificiales: superficiales y profundas. Procesamiento de lenguaje natural. Procesamiento de imágenes.\nPrograma analítico:\n  Unidad 1 – Introducción a la Ciencia de datos: Conceptos básicos: conjuntos de datos, tipos de variables, tipos de problemas, tipos de modelos, valores atípicos.\n  Unidad 2 – Visualización de datos: Uso de las bibliotecas Pandas y Seaborn, revisión de los distintos tipos de gráficos disponibles y cómo analizarlos. Posibles usos.\n  Unidad 3 – Ingeniería de características: Limpieza de datos, detección de valores atípicos, normalización de datos, balanceo, etc. Métricas.\n  Unidad 4 – Árboles de decisión: algoritmos ID3, C4.5 y Random Forest\n  Unidad 5 – Procesamiento de lenguaje natural: Aprendizaje bayesiano, clasificación de textos, análisis de sentimientos y extracción de información.\n  Unidad 6 – Ensamble de modelos: AdaBoost, Gradient Boosting, XGBoost, ensambles híbridos.\n  Unidad 7 – Redes neuronales superficiales: Perceptrón simple. Perceptrón multicapa, Backpropagation, redes SOM (Kohonen).\n  Unidad 8 – Redes de aprendizaje profundo: Autoencoders, redes convolucionales, redes recurrentes de tensores, redes GAN. Introducción a Tensorflow.\n  Unidad 9 – Reducción de la dimensionalidad: técnicas PCA, ISOMap, tSNE, MDS y PcoA\n  Unidad 10 – Técnicas adicionales: K-nearest neighbors, Support Vector Machines (SVM) y Algoritmos genéricos.\n  "
 },
 {
 	"uri": "https://datos7506-fiuba.github.io/tags/pr%C3%A1cticos/",
@@ -67,7 +46,7 @@
 	"title": "Calendario",
 	"tags": [],
 	"description": "Calendario de la materia",
-	"content": "   Semana Fecha Práctica virtual Fecha Teórica presencial     1 21/03/2022 - Presentación de la materia. 23/03/2022 -Pandas. - Visualización de datos.   2 28/03/2022 - Pandas - Presentación del TP1 30/03/2022 - Introducción a la ciencia de datos. - Métodos de regresión - Métodos de clasificación - Métodos de clusterización   3 4/4/2022  06/04/2022 - NLP - parte 1   4 11/04/2022 -Práctica ciencia de datos 13/04/2022 - NLP - parte 2   5 18/04/2022 - Ingeniería de características (Teorica) 20/04/2022 -Práctica NLP   6 25/04/2022 - Vencimiento TP1 - Práctica Ingeniería de características 27/04/2022 - Árboles   7 02/05/2022 - Práctica Árboles 04/05/2022 - Presentación TP2 - Ensambles   8 09/05/2022 - Práctica Ensambles 11/05/2022 - Redes neuronales parte 1   9 16/05/2022 - Práctica Redes neuronales 18/05/2022    10 23/05/2022 - Teórica Redes neuronales parte 2 25/05/2022    11 30/05/2022 - Vencimiento TP2 - Práctica redes neuronales 2 01/06/2022 - Redes neuronales profundas   12 06/06/2022 Yolo v5 08/06/2022 - Parcial   13 13/06/2022 - Presentación del trabajo final - Entregas notas parcial 15/06/2022 - SVM   14 20/06/2022 - Reentrega TP2 22/06/2022 - Reduccion de la dimensionalidad   15 27/06/2022 - Práctica de reducción de dimensionalidad - Práctica de SVM 29/06/2022 - Primer recuperatorio (presencial) - Algoritmos genéticos - Práctica de algoritmos genéticos   16 04/07/2022 Consultas TPs 06/07/2022 Consultas TPs    "
+	"content": " "
 },
 {
 	"uri": "https://datos7506-fiuba.github.io/categories/",
@@ -77,30 +56,23 @@
 	"content": ""
 },
 {
-	"uri": "https://datos7506-fiuba.github.io/exams/",
-	"title": "Exámenes",
+	"uri": "https://datos7506-fiuba.github.io/exercises/",
+	"title": "Ejercicios",
 	"tags": [],
-	"description": "Exámenes",
-	"content": "Mauris eget arcu ut massa finibus condimentum vel a enim. Pellentesque eu turpis suscipit, convallis mauris nec, imperdiet neque. Suspendisse ac posuere mauris. Sed diam sapien, cursus et lacus vitae, condimentum rhoncus mi. Curabitur vehicula, metus non semper aliquam, ex est auctor erat, vitae molestie magna ex nec lorem. Praesent varius libero ut enim laoreet, non volutpat ante placerat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\nPraesent quis augue augue. Morbi vestibulum euismod diam, nec volutpat nulla ultricies vitae. Donec lacinia lectus eu massa maximus fermentum. Donec hendrerit odio convallis volutpat pharetra. Proin sed viverra ex. Sed ac neque eu lacus tristique pharetra. Vivamus laoreet auctor semper. Nulla porttitor risus massa, quis condimentum quam commodo sit amet. Mauris ultrices libero vitae fermentum maximus. Praesent ut erat ac velit aliquam viverra.\n"
-},
-{
-	"uri": "https://datos7506-fiuba.github.io/recordings/",
-	"title": "Grabaciones",
-	"tags": [],
-	"description": "Clases grabadas de la materia",
-	"content": "Clase 1 (1/1/2022) - SVN Temas vistos: SVN\n "
+	"description": "Ejercicios",
+	"content": " El enunciado todavía no se ha publicado.\n "
 },
 {
 	"uri": "https://datos7506-fiuba.github.io/modality/",
 	"title": "Modalidad de cursada",
 	"tags": [],
 	"description": "Modalidad de cursada",
-	"content": "Horarios:  Práctica: Martes 19:00 - 22:00 hs virtual Teórica: Jueves 19:00 - 22:00 hs virtual  Régimen de aprobación:  1 trabajo práctico durante la cursada (no hay reentrega) 1 trabajo práctico durante la cursada (una reentrega) Parcial. (2 recuperatorios) 1 trabajo práctico final, con posibilidad de ser entregado en cualquier fecha de coloquio. (2 posibilidades de reentrega) Defensa oral del último TP.  "
+	"content": "Metodología de enseñanza Clases teóricas y clases prácticas dictadas de forma virtual. Las clases teóricas, al ser virtuales y dictarse mediante una video-llamada, se graban para que los alumnos pueda revisarlas más tarde si así lo desean o verlas por primera vez si es que no pudieron conectarse al momento de dictarse la misma. Las clases prácticas permiten al alumno replicar los pasos que el docente lleva adelante en su ambiente local, compartir su pantalla para que el docente pueda sugerir correcciones o detectar errores. Y por supuesto al estar alumnos y docentes conectados a Internet pueden compartir rápidamente recursos con maquinas virtuales Jupyter o conjuntos de datos.\nHorarios:\n Práctica: Martes 19:00 - 22:00 hs virtual Teórica: Jueves 19:00 - 22:00 hs virtual  Modalidad de evaluación Para aprobar la materia hay que completar 2 trabajos prácticos grupales y rendir un examen escrito, el cual se realizará de forma presencial.\n"
 },
 {
 	"uri": "https://datos7506-fiuba.github.io/resources/",
 	"title": "Recursos",
 	"tags": [],
 	"description": "Recursos",
-	"content": " Guía de estudios Libro: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems (2019).pdf  "
+	"content": " Guía de estudios Libro: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems (2019).pdf Documentación oficial de Scikit-Learn Documentación oficial de TendprFlow Documentación oficial de Pandas Documentación oficial de Weka Documentación oficial de Yolov5  "
 }]
