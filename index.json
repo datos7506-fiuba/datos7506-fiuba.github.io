@@ -4,7 +4,7 @@
 	"title": "Trabajos prácticos",
 	"tags": ["trabajos", "prácticos"],
 	"description": "Trabajos prácticos de la materia",
-	"content": "Régimen de entrega Los trabajos prácticos se efectúan en grupos de hasta 4 integrantes. Van a tener asignados un/a colaborador/a para la resolución de dudas puntuales y para la corrección de los trabajos prácticos.\n"
+	"content": "Modalidad Los trabajos prácticos deberán ser resueltos en una notebook utilizando el lenguaje Python (Jupyter Notebook, Google Colab, etc.). En cada ejercicio deben estar explicados/justificados todos los pasos y procedimientos realizados (de forma detallada) para llegar a la resolución del mismo. También podrán ser resueltos en una máquina virtual tipo Jupyter en el sitio Kaggle, en ese caso se debe entregar el enlace a la máquina correspondiente con los permisos de lectura y escritura necesarios para la evaluación.\nLos trabajos se realizarán en grupos de cuatro personas.\nFechas Importantes:  22/08/2022 - Presentación Enunciado TP 1 01/11/2022 – Fecha de Entrega TP1 01/11/2022 - Presentación Enunciado TP2 15/11/2022 - Fecha de Reentrega TP1 08/12/2022 - Fecha Entrega TP2  "
 },
 {
 	"uri": "https://datos7506-fiuba.github.io/",
@@ -67,12 +67,12 @@
 	"title": "Modalidad de cursada",
 	"tags": [],
 	"description": "Modalidad de cursada",
-	"content": "Metodología de enseñanza Clases teóricas y clases prácticas dictadas de forma virtual. Las clases teóricas, al ser virtuales y dictarse mediante una video-llamada, se graban para que los alumnos pueda revisarlas más tarde si así lo desean o verlas por primera vez si es que no pudieron conectarse al momento de dictarse la misma. Las clases prácticas permiten al alumno replicar los pasos que el docente lleva adelante en su ambiente local, compartir su pantalla para que el docente pueda sugerir correcciones o detectar errores. Y por supuesto al estar alumnos y docentes conectados a Internet pueden compartir rápidamente recursos con maquinas virtuales Jupyter o conjuntos de datos.\nHorarios:\n Práctica: Martes 19:00 - 22:00 hs virtual Teórica: Jueves 19:00 - 22:00 hs virtual  Modalidad de evaluación Para aprobar la materia hay que completar 2 trabajos prácticos grupales y rendir un examen escrito, el cual se realizará de forma presencial.\n"
+	"content": "Metodología de enseñanza Clases teóricas y clases prácticas dictadas de forma virtual. Las clases teóricas, al ser virtuales y dictarse mediante una video-llamada, se graban para que los alumnos pueda revisarlas más tarde si así lo desean o verlas por primera vez si es que no pudieron conectarse al momento de dictarse la misma. Las clases prácticas permiten al alumno replicar los pasos que el docente lleva adelante en su ambiente local, compartir su pantalla para que el docente pueda sugerir correcciones o detectar errores. Y por supuesto al estar alumnos y docentes conectados a Internet pueden compartir rápidamente recursos con maquinas virtuales Jupyter o conjuntos de datos.\nHorarios:\n Práctica: Martes 19:00 - 22:00 hs virtual Teórica: Jueves 19:00 - 22:00 hs virtual  Modalidad de evaluación Se evaluará en todo momento del curso el manejo de conceptos, aplicación de conocimientos y dominio de técnicas mediante la resolución de problemas en las clases prácticas.\nPara aprobar la materia el alumno debe completar exitosamente las siguientes instancias de evaluación:\n Evaluación parcial escrita (presencial). Evaluación de dos trabajos prácticos en grupales. Evaluación Integradora (coloquio).  Los exámenes parciales cuentan con dos instancias de recuperación y cada trabajo práctico con una posible reentrega.\n"
 },
 {
 	"uri": "https://datos7506-fiuba.github.io/resources/",
 	"title": "Recursos",
 	"tags": [],
 	"description": "Recursos",
-	"content": " Guía de estudios Libro: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems (2019).pdf Documentación oficial de Scikit-Learn Documentación oficial de TendprFlow Documentación oficial de Pandas Documentación oficial de Weka Documentación oficial de Yolov5  "
+	"content": "Clases teóricas y prácticas  Material Alumnos  Bibliografía  Libro: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems (2019).pdf  Links de interés  Documentación oficial de Scikit-Learn Documentación oficial de TendprFlow Documentación oficial de Pandas Documentación oficial de Weka Documentación oficial de Yolov5  "
 }]
