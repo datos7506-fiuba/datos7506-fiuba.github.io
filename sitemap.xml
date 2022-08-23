@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://datos7506-fiuba.github.io/tps/tp1/</loc>
-    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://datos7506-fiuba.github.io/tps/tp2/</loc>
-    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://datos7506-fiuba.github.io/tps/tp3/</loc>
-    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://datos7506-fiuba.github.io/tps/</loc>
     <lastmod>2022-08-18T00:00:00+00:00</lastmod>
   </url>
@@ -56,11 +41,15 @@
   </url>
   
   <url>
-    <loc>https://datos7506-fiuba.github.io/exams/</loc>
+    <loc>https://datos7506-fiuba.github.io/exercises/</loc>
   </url>
   
   <url>
-    <loc>https://datos7506-fiuba.github.io/recordings/</loc>
+    <loc>https://datos7506-fiuba.github.io/modality/</loc>
+  </url>
+  
+  <url>
+    <loc>https://datos7506-fiuba.github.io/resources/</loc>
   </url>
   
 </urlset>

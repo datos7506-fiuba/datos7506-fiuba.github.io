@@ -12,39 +12,12 @@
     
     
     <item>
-      <title>TP1</title>
-      <link>https://datos7506-fiuba.github.io/tps/tp1/</link>
-      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://datos7506-fiuba.github.io/tps/tp1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TP2</title>
-      <link>https://datos7506-fiuba.github.io/tps/tp2/</link>
-      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://datos7506-fiuba.github.io/tps/tp2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TP3</title>
-      <link>https://datos7506-fiuba.github.io/tps/tp3/</link>
-      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://datos7506-fiuba.github.io/tps/tp3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Trabajos prácticos</title>
       <link>https://datos7506-fiuba.github.io/tps/</link>
       <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://datos7506-fiuba.github.io/tps/</guid>
-      <description>Régimen de entrega Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum neque ipsum, tempor vel fermentum eget, placerat vitae risus. Proin ultricies, nibh et tincidunt sagittis, odio lectus laoreet magna, a interdum mauris mi nec arcu. Sed et malesuada ante, porta mollis risus. Curabitur sodales nulla nec fringilla viverra. Fusce interdum arcu vulputate justo varius ultricies. Integer non urna augue. Nulla sollicitudin elit vitae tortor varius, et iaculis justo aliquam.</description>
+      <description>Modalidad Los trabajos prácticos deberán ser resueltos en una notebook utilizando el lenguaje Python (Jupyter Notebook, Google Colab, etc.). En cada ejercicio deben estar explicados/justificados todos los pasos y procedimientos realizados (de forma detallada) para llegar a la resolución del mismo. También podrán ser resueltos en una máquina virtual tipo Jupyter en el sitio Kaggle, en ese caso se debe entregar el enlace a la máquina correspondiente con los permisos de lectura y escritura necesarios para la evaluación.</description>
     </item>
     
   </channel>
