@@ -5,6 +5,10 @@
     <link>https://datos7506-fiuba.github.io/modality/</link>
     <description>Recent content in Modalidad de cursada on Organización de Datos 75.06/95.58</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://datos7506-fiuba.github.io/modality/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    
+	<atom:link href="https://datos7506-fiuba.github.io/modality/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>
