@@ -1,55 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://datos7506-fiuba.github.io/tps/</loc>
     <lastmod>2022-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://datos7506-fiuba.github.io/</loc>
     <lastmod>2022-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://datos7506-fiuba.github.io/tags/pr%C3%A1cticos/</loc>
     <lastmod>2022-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://datos7506-fiuba.github.io/tags/</loc>
     <lastmod>2022-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://datos7506-fiuba.github.io/tags/trabajos/</loc>
     <lastmod>2022-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://datos7506-fiuba.github.io/_footer/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://datos7506-fiuba.github.io/calendar/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://datos7506-fiuba.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://datos7506-fiuba.github.io/exercises/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://datos7506-fiuba.github.io/modality/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://datos7506-fiuba.github.io/resources/</loc>
   </url>
-  
 </urlset>
